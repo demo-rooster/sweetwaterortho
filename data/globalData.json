@@ -1,80 +1,36 @@
 {
   "enable_development_mode": false,
-  "company_name": "Tyska Alexander Orthodontics",
-  "domain": "taortho.com",
-  "email": "info@mandtortho.com",
+  "company_name": "Sweetwater Orthodontics",
+  "domain": "sweetwaterortho.com",
+  "email": "fellerandfellerortho@gmail.com",
   "phone": {
-    "number": "(716) 759-8323",
-    "href": "tel:+17167598323",
-    "aria": "7 1 6, 7 5 9, 8 3 2 3"
+    "number": "307-362-8842",
+    "href": "tel:+13073628842",
+    "aria": "3 0 7, 3 6 2, 8 8 4 2"
   },
   "location": [
     {
-      "title": "Clarence Office",
+      "title": "Bountiful, UT",
       "address": {
-        "street": "9650 Main Street",
-        "suite": "",
-        "city_state": "Clarence, NY 14031",
+        "street": "1512 Renaissance Towne Dr",
+        "suite": "Ste 201",
+        "city_state": "Bountiful, UT 84010",
         "coordinates": {
-          "longitude": "-78.6314355",
-          "latitude": "42.9736638"
+          "longitude": "",
+          "latitude": ""
         }
       },
       "phone": {
-        "number": "(716) 759-8323",
-        "href": "tel:+17167598323"
+        "number": "307-362-8842",
+        "href": "tel:+13073628842"
       },
-      "email": "info@mandtortho.com",
-      "hours": [
-        {
-          "day": "Monday",
-          "time": "8:30 am \t6:30 pm"
-        },
-        {
-          "day": "Tuesday",
-          "time": "8:30 am \t6:30 pm"
-        },
-        {
-          "day": "Wednesday",
-          "time": "8:00 am \t11:30 am"
-        },
-        {
-          "day": "Thursday",
-          "time": "8:00 am \t6:00 pm"
-        },
-        {
-          "day": "Friday",
-          "time": "8:00 am \t11:30 am"
-        }
-      ],
-      "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
-        "label": "Get Directions"
-      },
-      "special_note": ""
-    },
-    {
-      "title": "Tonawanda Office",
-      "address": {
-        "street": "1077 Delaware Rd",
-        "suite": "",
-        "city_state": "Tonawanda, NY 14223",
-        "coordinates": {
-          "longitude": "-78.8730228",
-          "latitude": "42.9901241"
-        }
-      },
-      "phone": {
-        "number": "(716) 875-0405",
-        "href": "tel:+17168750405"
-      },
-      "email": "info@mandtortho.com",
+      "email": "fellerandfellerortho@gmail.com",
       "hours": [],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=1077+Delaware+Rd+Tonawanda+NY+14223",
+        "href": "https://www.google.com/maps/search/?api=1&query=1512+Renaissance+Towne+Dr+Ste+201+Bountiful+UT+84010",
         "label": "Get Directions"
       },
-      "special_note": ""
+      "special_note": "Sweetwater Orthodontics serves patients in Rock Springs, WY and the surrounding Sweetwater County area in addition to the Bountiful office. Please call for location-specific scheduling."
     }
   ],
   "typography": [
@@ -92,22 +48,7 @@
     "type": "links",
     "theme": "dark",
     "content_alignment": "right",
-    "links": [
-      {
-        "icon": "tooth-two-v1",
-        "text": "9650 Main Street, Clarence, NY 14031",
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
-        "label": "View 9650 Main Street, Clarence, NY 14031 on google maps",
-        "new_window": true
-      },
-      {
-        "icon": "phone",
-        "text": "(716) 759-8323",
-        "href": "tel:+17167598323",
-        "label": "Call 7 1 6. 7 5 9. 8 3 2 3.",
-        "new_window": false
-      }
-    ],
+    "links": [],
     "announcement": {
       "icon": "tooth-two-v2",
       "label": "",
@@ -150,8 +91,12 @@
   "footer": {
     "social_media": [
       {
-        "href": "https://www.youtube.com/channel/UC1pgQhnbNQ7Mf0xFm_2KF-g",
-        "icon": "youtube"
+        "href": "https://www.facebook.com/fellerorthodontics/",
+        "icon": "facebook"
+      },
+      {
+        "href": "https://www.instagram.com/feller_orthodontics/",
+        "icon": "instagram"
       }
     ],
     "add_border": false
